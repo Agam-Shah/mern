@@ -1,3 +1,5 @@
+//Basi test file to understand the syntax of JavaScript
+
 console.log("This is a seperate Javascript File.")
 
 let firstName = "Agam";
